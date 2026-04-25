@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+.main{
+	height:800px;
+	width:600px;
+	background-color:red;
+}
+.moviePic{
+	margin-top:50px;
+	height:400px;
+	width:500px;
+	opacity:0.8;
+	position:relative;
+	
+}
+.movieDetail{
+	position:absolute;
+	top:500px;
+	right:100px;
+	color:white;
+	font-size:30px;
+	width:470px;
+	text-align:justify;
+}
+u{
+	font-size:50px;
+	background-color:black;
+}
